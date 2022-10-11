@@ -36,7 +36,9 @@
 | 2022-10-8 |  | ALREX*3 | Warm Compress * 2 |
 | 2022-10-9 |  | ALREX*3 | Warm Compress * 2 |
 
-Systane Complete is not confortable anymore. Switch to Systane Ultra.
+- Systane Complete is not confortable anymore. Switch to Systane Ultra.
+- Extreme dry after waking up.
+- Yawning makes more tears (Sometimes too much).
 
 ## Week 4
 
