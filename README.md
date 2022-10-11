@@ -22,7 +22,7 @@
 | 2022-09-29 |  |  |  |
 | 2022-09-30 |  |  |  |
 | 2022-10-1 |  |  |  |
-| 2022-10-2 | Start to reduce elec use |  |  |
+| 2022-10-2 | Stop Academic |  |  |
 
 ## Week 3
 
@@ -33,14 +33,16 @@
 | 2022-10-5 |  | Tobramycin and Dexamethasone |  |
 | 2022-10-6 |  | Tobramycin and Dexamethasone |  |
 | 2022-10-7 | See Dr. Palmer | Tobramycin and Dexamethasone |  |
-| 2022-10-8 |  | ALREX*3 |  |
-| 2022-10-9 |  | ALREX*3 |  |
+| 2022-10-8 |  | ALREX*3 | Warm Compress * 2 |
+| 2022-10-9 |  | ALREX*3 | Warm Compress * 2 |
+
+Systane Complete is not confortable anymore. Switch to Systane Ultra.
 
 ## Week 4
 
 | Date | Event | Drug | Notes |
 | ---- | ----- | ---- | ----- |
-| 2022-10-10 |  | ALREX*3 |  |
+| 2022-10-10 |  | ALREX*2 | Warm Compress * 2, Switch to Systane Ultra |
 | 2022-10-11 |  |  |  |
 | 2022-10-12 |  |  |  |
 | 2022-10-13 |  |  |  |
