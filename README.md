@@ -44,8 +44,8 @@
 
 | Date | Event | Drug | Notes |
 | ---- | ----- | ---- | ----- |
-| 2022-10-10 |  | ALREX*2 | Warm Compress * 2, Switch to Systane Ultra |
-| 2022-10-11 |  |  |  |
+| 2022-10-10 |  | ALREX*3 | Warm Compress * 2, Switch to Systane Ultra |
+| 2022-10-11 |  | ALREX*1 |  |
 | 2022-10-12 |  |  |  |
 | 2022-10-13 |  |  |  |
 | 2022-10-14 |  |  |  |
