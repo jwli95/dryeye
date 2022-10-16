@@ -49,8 +49,8 @@
 | 2022-10-12 |  | ALREX\*2, Xiidra\*2 | Warm Compress\*1, Feel better during daytime, but become worse after 5:00PM, having 4 hours TA |
 | 2022-10-13 |  | ALREX\*2, Xiidra\*2 | Still very dry at wakeup, but can move the eyeballs without very pain |
 | 2022-10-14 |  | ALREX\*2, Xiidra\*2 | Warm Compress\*1, still cannot take wind |
-| 2022-10-15 |  | ALREX\*1, Xiidra\*1 | Not very dry at wakeup |
-| 2022-10-16 |  |  |  |
+| 2022-10-15 |  | ALREX\*2, Xiidra\*1 | Not very dry at wakeup |
+| 2022-10-16 |  | ALREX\*1, Xiidra\*1 | Not very dry at wakeup |
 
 - Xiidra: irration, bitter, headache at the first time, feel only acceptable in the later usage.
 
@@ -64,3 +64,4 @@
 | 2022-10-13 | 4 | 11:30PM, 1:30PM, 3:20PM, 6:30PM |
 | 2022-10-14 | 5 | 2:00PM, 4:00PM, (5:00PM, 6:00PM, 7:00PM Costco windy +3) |
 | 2022-10-15 | 3 | 12:00PM, 2:00PM, 4:00PM |
+| 2022-10-16 | 1 | 3:00PM |
