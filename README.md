@@ -54,6 +54,18 @@
 
 - Xiidra: irration, bitter, headache at the first time, feel only acceptable in the later usage.
 
+## Week 5
+
+| Date | Event | Drug | Notes |
+| ---- | ----- | ---- | ----- |
+| 2022-10-17 | See Dr. Xiao | ALREX\*1, Xiidra\*1 |  |
+| 2022-10-18 |  |  |  |
+| 2022-10-19 |  |  |  |
+| 2022-10-20 |  |  |  |
+| 2022-10-21 |  |  |  |
+| 2022-10-22 |  |  |  |
+| 2022-10-23 |  |  |  |
+
 ## Artificial Tears Records
 
 | Date | Count | Times |
