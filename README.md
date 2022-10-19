@@ -36,7 +36,7 @@
 | 2022-10-8 |  | ALREX\*3 | Warm Compress\*2 |
 | 2022-10-9 |  | ALREX\*3 | Warm Compress\*2 |
 
-- Systane Complete is not confortable anymore. Switch to Systane Ultra.
+- Systane Complete is not comfortable anymore. Switch to Systane Ultra.
 - Extreme dry after waking up.
 - Yawning makes more tears (Sometimes too much).
 
@@ -58,13 +58,15 @@
 
 | Date | Event | Drug | Notes |
 | ---- | ----- | ---- | ----- |
-| 2022-10-17 | See Dr. Xiao | ALREX\*1, Xiidra\*1 | Still dry at wakeup. |
-| 2022-10-18 |  |  |  |
-| 2022-10-19 |  |  |  |
+| 2022-10-17 | See Dr. Xiao | ALREX\*2, Xiidra\*2 | Still dry at wakeup. |
+| 2022-10-18 |  | ALREX\*2, Xiidra\*2 | Dry at wakeup, a little bit better. Windy outdoor, can't bear. |
+| 2022-10-19 |  | ALREX\*1, Xiidra\*1 | More comfortable at morning. |
 | 2022-10-20 |  |  |  |
 | 2022-10-21 |  |  |  |
 | 2022-10-22 |  |  |  |
 | 2022-10-23 |  |  |  |
+
+- Must sleep before 11:00PM
 
 ## Artificial Tears Records
 
@@ -77,4 +79,6 @@
 | 2022-10-14 | 5 | 2:00PM, 4:00PM, (5:00PM, 6:00PM, 7:00PM Costco windy +3) |
 | 2022-10-15 | 3 | 12:00PM, 2:00PM, 4:00PM |
 | 2022-10-16 | 3 | 3:00PM, 5:00PM, 6:15PM |
-| 2022-10-17 | 1 | 3:00PM |
+| 2022-10-17 | 3 | 3:00PM, 5:00PM, 6:00PM |
+| 2022-10-18 | 6 | 10:30PM, 3:00PM, 4:30PM, 4:40PM, 5:00PM, 6:00PM |
+| 2022-10-19 | 1 | 11:40PM |
