@@ -60,8 +60,8 @@
 | ---- | ----- | ---- | ----- |
 | 2022-10-17 | See Dr. Xiao | ALREX\*2, Xiidra\*2 | Still dry at wakeup. |
 | 2022-10-18 |  | ALREX\*2, Xiidra\*2 | Dry at wakeup, a little bit better. Windy outdoor, can't bear. |
-| 2022-10-19 |  | ALREX\*1, Xiidra\*1 | More comfortable at morning. |
-| 2022-10-20 |  |  |  |
+| 2022-10-19 |  | ALREX\*2, Xiidra\*2 | More comfortable at morning. |
+| 2022-10-20 |  | ALREX\*1, Xiidra\*1 |  |
 | 2022-10-21 |  |  |  |
 | 2022-10-22 |  |  |  |
 | 2022-10-23 |  |  |  |
@@ -82,3 +82,4 @@
 | 2022-10-17 | 3 | 3:00PM, 5:00PM, 6:00PM |
 | 2022-10-18 | 6 | 10:30PM, 3:00PM, 4:30PM, 4:40PM, 5:00PM, 6:00PM |
 | 2022-10-19 | 3 | 11:40PM, 5:00PM, 7:00PM |
+| 2022-10-20 |  |  |
