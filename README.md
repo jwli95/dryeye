@@ -59,14 +59,26 @@
 | Date | Event | Drug | Notes |
 | ---- | ----- | ---- | ----- |
 | 2022-10-17 | See Dr. Xiao | ALREX\*2, Xiidra\*2 | Still dry at wakeup. |
-| 2022-10-18 |  | ALREX\*2, Xiidra\*2 | Dry at wakeup, a little bit better. Windy outdoor, can't bear. |
+| 2022-10-18 |  | ALREX\*2, Xiidra\*2 | Dry at wakeup, a little bit better. Windy outdoor, can't bear, use AT multiple times |
 | 2022-10-19 |  | ALREX\*2, Xiidra\*2 | More comfortable at morning. |
 | 2022-10-20 | See Dr. Xiao | ALREX\*2, Xiidra\*2 | Still can't bear wind. |
-| 2022-10-21 |  | ALREX\*1, Xiidra\*1 |  |
-| 2022-10-22 |  |  |  |
-| 2022-10-23 |  |  |  |
+| 2022-10-21 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-22 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-23 |  | ALREX\*2, Xiidra\*2 | Good at beginning, go out 4 hours, then fucked. |
 
 - Must sleep before 11:00PM
+
+## Week 6
+
+| Date | Event | Drug | Notes |
+| ---- | ----- | ---- | ----- |
+| 2022-10-24 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-25 |  |  |  |
+| 2022-10-26 |  |  |  |
+| 2022-10-27 |  |  |  |
+| 2022-10-28 |  |  |  |
+| 2022-10-29 |  |  |  |
+| 2022-10-30 |  |  |  |
 
 ## Artificial Tears Records
 
@@ -83,4 +95,4 @@
 | 2022-10-18 | 6 | 10:30PM, 3:00PM, 4:30PM, 4:40PM, 5:00PM, 6:00PM |
 | 2022-10-19 | 3 | 11:40PM, 5:00PM, 7:00PM |
 | 2022-10-20 | 2 | 2:00PM, 5:20PM |
-| 2022-10-21 | 2 | 12:00PM, 2:00PM |
+| 2022-10-21 | 4 | 12:00PM, 2:00PM, 3:15PM, 9:00PM |
