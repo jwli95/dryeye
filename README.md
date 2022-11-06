@@ -73,12 +73,24 @@
 | Date | Event | Drug | Notes |
 | ---- | ----- | ---- | ----- |
 | 2022-10-24 |  | ALREX\*2, Xiidra\*2 |  |
-| 2022-10-25 |  |  |  |
-| 2022-10-26 |  |  |  |
-| 2022-10-27 |  |  |  |
-| 2022-10-28 |  |  |  |
-| 2022-10-29 |  |  |  |
-| 2022-10-30 |  |  |  |
+| 2022-10-25 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-26 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-27 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-28 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-29 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-10-30 |  | ALREX\*2, Xiidra\*2 |  |
+
+## Week 7
+
+| Date | Event | Drug | Notes |
+| ---- | ----- | ---- | ----- |
+| 2022-10-31 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-11-1 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-11-2 |  | ALREX\*2, Xiidra\*2 |  |
+| 2022-11-3 | See Dr. Stephanie | ALREX\*2, Xiidra\*2 |  |
+| 2022-11-4 |  | ALREX\*2, Xiidra\*2, Tyrvaya\*2, Lidprep\*1 |  |
+| 2022-11-5 |  | ALREX\*2, Xiidra\*2, Tyrvaya\*2, Lidprep\*1 |  |
+| 2022-11-6 |  |  |  |
 
 ## Artificial Tears Records
 
